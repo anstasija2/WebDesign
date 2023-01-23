@@ -1,0 +1,20 @@
+.button {
+  background-color: rgb(173,255,46);
+  border-radius: 7px ;
+  padding: 10px;
+  font-weight: bold;
+  border :none;
+}
+.button-menu{
+
+}
+.button-2{
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 18pxpx;
+  font-weight:bold;
+  border: none;
+  background-color:rgb(120,169,25);
+  margin-left: 60px;
+}

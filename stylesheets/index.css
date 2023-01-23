@@ -1,0 +1,22 @@
+.head-image{
+    background-image: url("https://global-uploads.webflow.com/60c1664bae281e719d121907/6189dcb864be6aa3f1e3020d_Screen%20Shot%202021-11-08%20at%209.27.58%20PM-p-2000.png");
+    height: 350px;
+    width:100%;
+    background-position: -220px;
+    position: relative;
+    opacity: 0.9;
+}
+
+.head-text{
+    margin-left:162px;
+    margin-top: ;
+}
+.name{
+    color: yellow;
+}
+
+p{
+    color: white;
+    font-weight: bold;
+   
+}
